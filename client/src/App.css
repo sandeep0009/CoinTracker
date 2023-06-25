@@ -1,0 +1,104 @@
+.footer div{
+    margin: auto;
+
+    
+    color: white;
+   
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.image1{
+    height: 20px; 
+      margin-left: 4px;
+      cursor: pointer;
+}
+
+input{
+    margin-right: 4px;
+    border: 1px solid black;
+    border-radius: 2px;
+    height: 37px;
+    margin-top: 3px;
+
+
+
+    outline: none;
+}
+
+.header{
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.heading{
+    text-align: center;
+    margin:20px auto;
+
+}
+.links{
+    display: flex;  
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    color: black;
+}
+
+.links:hover{
+    color: rgb(49, 0, 228);
+}
+
+.links div{
+    margin: 20px auto;
+  
+}
+
+.coinname{
+    display: block;
+    width: 20px;
+    flex: 1;
+
+}
+
+.price{
+    margin-left: 20px;
+    display: block;
+}
+
+.cryptoimage{
+    height: 30px;
+    border-radius: 50%;
+
+}
+
+.cryptousd{
+    font-size: 12px;
+}
+
+
+
+.showcoins{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.imageofcoins{
+    height: 40px;
+    padding-left: 6px;
+    
+}
+
+.showcoins header div{
+    display: flex;
+
+    justify-content: center;
+    margin: 12px auto;
+    align-items: center;
+}
+
+
