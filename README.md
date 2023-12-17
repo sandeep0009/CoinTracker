@@ -1,14 +1,61 @@
-## CoinTracker :-
-This is simple coin tracker app through which a person can know about a particular crpytocurrency  market cap rank and their current price in the market. there is search funcationality through that they can search about particular cryptocurrency.
+# CoinTracker
 
-## Technologies used in this are :-
-**React.js** for frontend part.
-**API's Used in this are:**
-1-CoinGeoko API for fetching information about cryptocurrency.
-2-Rechart API for showing the graph representation of cryptocurrency price.
+CoinTracker is a simple cryptocurrency tracking app that provides information about a specific cryptocurrency's market cap rank and current market price. The app includes a search functionality for users to easily find details about their desired cryptocurrencies.
 
-## How to install the dependecies :-
-1- Go into the directory using cd client
-2- Then run the command **npm install**
+## Technologies Used
 
-## deployed links :-
+- **React.js:** Utilized for the frontend development.
+
+## APIs Used
+
+1. **CoinGecko API:** Fetches comprehensive information about various cryptocurrencies.
+2. **Rechart API:** Enables the graphical representation of cryptocurrency prices.
+
+## Features
+
+- **Search Functionality:** Users can search for specific cryptocurrencies.
+- **Market Cap Rank:** View the market cap rank of each cryptocurrency.
+- **Real-time Price Updates:** Get the latest market prices for tracked cryptocurrencies.
+
+## Installation Guide
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/CoinTracker.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd CoinTracker/client
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+1. Run the app locally:
+
+    ```bash
+    npm start
+    ```
+
+2. Open your browser and go to `http://localhost:5173` to view the app.
+
+## Deployed Links
+
+- [CoinTracker on Netlify](https://657ed7c0cd7a7c5be9dda111--astonishing-macaron-230201.netlify.app/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- Thanks to [CoinGecko](https://www.coingecko.com/en) for providing the cryptocurrency data.
+- Special thanks to [Recharts](http://recharts.org/en-US/) for the powerful charting capabilities.
