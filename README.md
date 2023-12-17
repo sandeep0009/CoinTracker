@@ -47,9 +47,6 @@ CoinTracker is a simple cryptocurrency tracking app that provides information ab
 
 2. Open your browser and go to `http://localhost:5173` to view the app.
 
-## Deployed Links
-
-- [CoinTracker on Netlify](https://657ed7c0cd7a7c5be9dda111--astonishing-macaron-230201.netlify.app/)
 
 ## License
 
