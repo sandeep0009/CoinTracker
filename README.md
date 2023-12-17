@@ -22,7 +22,7 @@ CoinTracker is a simple cryptocurrency tracking app that provides information ab
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/CoinTracker.git
+    git clone https://github.com/sandeep0009/CoinTracker.git
     ```
 
 2. Navigate to the project directory:
@@ -47,10 +47,6 @@ CoinTracker is a simple cryptocurrency tracking app that provides information ab
 
 2. Open your browser and go to `http://localhost:5173` to view the app.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
